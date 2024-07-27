@@ -93,7 +93,7 @@ CREATE TABLE IF NOT EXISTS `detailtrx` (
 
 INSERT INTO `detailtrx` (`kdtrx`, `kdbrg`, `qty`, `disc`) VALUES
 ('TX0001', 'p0003', 200, 10),
-('TX0001', 's0001', 100, 15),
+('TX0001', 's0001', 100, 16),
 ('TX0001', 's0002', 20, 0),
 ('TX0002', 'p0001', 10, 0),
 ('TX0002', 's0002', 20, 1),
@@ -106,7 +106,7 @@ INSERT INTO `detailtrx` (`kdtrx`, `kdbrg`, `qty`, `disc`) VALUES
 ('TX0004', 's0002', 5, 0),
 ('TX0004', 'p0002', 2, 0),
 ('TX0004', 't0001', 3, 0),
-('TX0005', 's0002', 5, 2),
+('TX0005', 's0002', 6, 2),
 ('TX0005', 'p0003', 5, 1),
 ('TX0005', 't0001', 1, 0),
 ('TX0005', 'p0001', 5, 3),
